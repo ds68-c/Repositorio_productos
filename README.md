@@ -2,7 +2,7 @@
 Graciela Benítez
 # Descripción
 
-Planeación didáctica
-Lista de cotejo
+# Planeación didáctica
+# Lista de cotejo
 
 
