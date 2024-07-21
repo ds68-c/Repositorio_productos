@@ -1,0 +1,41 @@
+generalesCuentaGitHub.txt
+ver 0.1.0 15jul24. Creación de repositorio
+versión superior-versión media-parche 
+(formato z-y-x)
+
+Liga para descargar repositorio: https://git-scm.com/
+Liga para entrar a git es( es un servidor de repositorios):Githut.com
+
+correo electronico: gra57968@gmail.com
+
+Nombre de la cuenta (usuario) o nombre de repositorio: ds68-c
+
+password: graciela68-
+
+
+Esta es la ruta de mi repositorio en mi computadora (Set up in Desktop): https://github.com/ds68-c/Repositorio_productos.git
+
+
+Creación de contenidos de repositorio:
+or create a new repository on the command line:
+
+echo "# Repositorio_productos" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ds68-c/Repositorio_productos.git
+git push -u origin main
+
+------Actualización de contenidos de repositorio----
+
+git add .
+git commit -m "first commit"
+git push -u origin main
+----------------------
+
+or push an exiting repository from the command line:
+
+git remote add origin https://github.com/ds68-c/Repositorio_productos.git
+git branch -M main
+git push -u origin main
